@@ -1,0 +1,108 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.uper-text {
+    
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+   
+}
+body{
+    background: #fceae8;
+    font-family: 'Ubuntu', sans-serif;
+}
+.Inventer{
+ display: flex;
+ justify-content: space-around;
+ font-size: 20px;
+
+
+}
+.introduction{
+    width: 50%;
+    margin-top: 5%;
+    text-align: justify;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+}
+.overview{
+
+    margin-top: 5%;
+    width: 40%;
+    text-align: justify;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+}
+.inventor-pic{
+    width: 30%;
+    
+}
+.overview-information {
+    display: flex; 
+    justify-content:space-around; 
+    
+    
+    padding: 5px;
+}
+.overview-p{
+    width: 30%;
+}
+.overview-text{
+    padding: 5px;
+   
+    text-align: center;
+}
+.box{
+    display: flex;
+}
+.data-type-container{
+background-color: rgba(233, 184, 169, 0.253);
+margin-top: 5%;
+padding-bottom: 5%;
+font-size: 20px;
+
+}
+.data-text{
+ text-align: center;
+ padding: 10px;
+
+
+}
+.box3{
+    width: 25%;
+    background-color: rgb(255, 53, 211);
+    padding:15px;
+        box-shadow: 10px 10px 30px grey;
+        margin-right:10%;
+        border-radius: 10px;
+    
+    }
+    .box2 {
+        width: 25%;
+        background-color: paleturquoise;
+        padding:15px;
+        box-shadow: 10px 10px 30px grey;
+        margin-left: 3%;
+        margin-right: 3%;
+        border-radius: 10px;
+        }
+    .box1 {
+            width: 25%;
+            background-color: rgb(108, 176, 240);
+            padding:15px;
+            box-shadow: 10px 10px 30px grey;
+            margin-left: 10%;
+            border-radius: 10px;
+            }
+ .loop{
+   margin-top: 5%;
+   background-color: rgba(233, 184, 169, 0.253);
+   padding:5% 0 5% 0;
+   font-size: 30px;
+
+ }   
+ .loop h1{
+     text-align: center;
+ }        
